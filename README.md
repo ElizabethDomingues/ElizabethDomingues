@@ -11,7 +11,7 @@
 
 ### `Desenvolvedora Full Stack · Front-end · Mobile`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Laravel+%7C+Vue.js+%7C+React+%7C+Flutter;Apaixonada+por+resolver+problemas+reais;Belo+Horizonte%2C+MG+%F0%9F%87%A7%F0%9F%87%B7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Laravel+%7C+Vue.js+%7C+React+%7C+Flutter;Belo+Horizonte%2C+MG+%F0%9F%87%A7%F0%9F%87%B7)](https://git.io/typing-svg)
 
 </div>
 

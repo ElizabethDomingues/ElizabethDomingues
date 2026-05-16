@@ -27,8 +27,6 @@ stack:      Laravel · Vue.js · React · Flutter · PHP · TypeScript
 trait:      Resolução de problemas · Aprendizado contínuo · Trabalho em equipe
 ```
 
-Desenvolvedora com experiência em **desenvolvimento web** e **suporte técnico**, atuando com tecnologias modernas para construir e manter sistemas robustos. Perfil colaborativo, orientado a resultado e sempre em busca de boas práticas de desenvolvimento.
-
 ---
 
 ## `$ ls ./stack`
@@ -82,31 +80,14 @@ Desenvolvedora com experiência em **desenvolvimento web** e **suporte técnico*
 │  ✦ Desenvolvimento web com Laravel, Vue.js e PHP                │
 │  ✦ Ajustes, correções e melhorias em sistemas internos          │
 │  ✦ Suporte técnico aos usuários (Help Desk)                     │
-│  ✦ Manutenção de hardware e instalação de software              │
-│  ✦ Monitoramento e organização de demandas de TI                │
 └─────────────────────────────────────────────────────────────────┘
 ```
-
----
-
-## `$ git stats`
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ElizabethDomingues&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElizabethDomingues&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElizabethDomingues&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
-</div>
-
----
 
 ## `$ contact --open`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elizabeth-domingues-b4357a240)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https:www.linkedin.com/in/elizabeth-domingues-b25b7b346)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elizapdominguess@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ElizabethDomingues)
 

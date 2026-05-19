@@ -17,7 +17,6 @@
 
 ---
 
-## `$ whoami`
 
 ```yaml
 nome:       Elizabeth Domingues
@@ -29,7 +28,6 @@ trait:      Resolução de problemas · Aprendizado contínuo · Trabalho em equ
 
 ---
 
-## `$ ls ./stack`
 
 <div align="left">
 
@@ -71,7 +69,7 @@ trait:      Resolução de problemas · Aprendizado contínuo · Trabalho em equ
 
 ---
 
-## `$ cat ./experience.log`
+
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -84,7 +82,7 @@ trait:      Resolução de problemas · Aprendizado contínuo · Trabalho em equ
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-## `$ contact --open`
+
 
 <div align="center">
 
